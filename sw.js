@@ -24,8 +24,13 @@ workboxSW.precache([
     "revision": "2e06b1d4a1017cdba8adb688d7ad8458"
   },
   {
+<<<<<<< HEAD
     "url": "/veterans-outreach/_nuxt/pages/chat.f99476aa9ecb81fb3d14.js",
     "revision": "f87e813a44c5f7ebebbbda02d7276074"
+=======
+    "url": "/veterans-outreach/_nuxt/pages/chat.b715b34fbbbf5475dd4a.js",
+    "revision": "30e1b266b951328c827cb938797132c7"
+>>>>>>> 88b05bd0c7ec0e161a1abb7a09d6ec2d159f2fb5
   },
   {
     "url": "/veterans-outreach/_nuxt/pages/index.cd41ad450bdb26f1cdb8.js",
