@@ -15,4 +15,11 @@ Our branding image will convey compassion and understanding, while facilitating 
 ## Analysis
 The overal mood of the 'blues' and 'greens' subconsciously calm Veterans additionally by providing a Chat feature implores Veterans a quick two-step process to reach out for help.
 
+## Technologies
+- HTML
+- Sass / SCSS / CSS
+- JavaScript
+- NuxtJS
+- Transitions / Animations
+
 Here is the website: [Veterans Outreach](http://asg5704.github.io/veterans-outreach/)
